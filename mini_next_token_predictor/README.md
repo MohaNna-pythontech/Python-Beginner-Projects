@@ -5,7 +5,7 @@ language model designed to explore the fundamental concepts of language modeling
 The model uses a Trigram approach, where two preceding words are used as context to predict
 the next word.It provides a practical introduction to the basic ideas behind language
 models and word-based prediction.
-#1.Training Data
+# 1.Training Data
 the model is trained using a small collection of
 predefined English sentences.These sentences
 provide the initial data from which the model
