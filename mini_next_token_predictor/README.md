@@ -45,10 +45,10 @@ It trains the model and displays the generated sentence.
 The "if__name__ == "__main__":" statement
 ensures that the main function runs when the Python file is executed directly.
 # Technologies Used
--Python
--Dictionary data structure
--Random module
--Word-based tokenization
+_Python
+_Dictionary data structure
+_Random module
+_Word-based tokenization
 # Project Purpose
 The purpose of this project is to gain a practical
 understanding of language models
