@@ -1,15 +1,15 @@
-#Terminal Calculator
+# Terminal Calculator
 A simple command-line calculator written in Python
-#Features
+# Features
 -Addition,subtraction,multiplication,and division
 -Handles invalid numeric input
 -Handles division by zero
 -Quit the program using "q"
-#Requirements
+# Requirements
 -Python
-#Using
+# Using
 Run the program from the terminal:
 python terminal_calculator.py
-#Project
+# Project
 A beginner-friendly Python project focused on 
 functions,, input validation, loops, and error handling.
